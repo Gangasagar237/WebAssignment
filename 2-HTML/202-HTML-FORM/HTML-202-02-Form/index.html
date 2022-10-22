@@ -7,6 +7,48 @@
     <title>Document</title>
   </head>
   <body>
-    Start coding here
+    <h1>Resistration form</h1>
+    <form action="service.com">
+      <select name="None" id="course">
+        <option value="non">--none--<option>
+        <option value="cse">comp science</option>
+        <option value="ece">Electronic</option>
+        <option value="me">echanical</option>
+        <option value="ce">Civil</option>
+      </select>
+      <div>
+        <label for="firstName">First Name:</label>
+        <input type="text" placeholder="Enter Your first Name" required/>
+      </div>
+      <br>
+      <br>
+      <div>
+        <label for="LastName">Last Name:</label>
+        <input type="text" placeholder="Enter your Last Name" required/>
+      </div>
+      <br>
+      <div>
+        <label for="gender">Gender :</label>
+        <input type="radio" />Male
+        <input type="radio" />Female
+      </div>
+      <br>
+      <div>
+        <label for="EmailId">Email:</label>
+        <input type="Email">
+      </div>
+      <br>
+      <div>
+        <label for="dateOfBirth">Date Of Birth:</label>
+        <input type="date">
+      </div>
+      <br>
+      <div>
+        <label for="Address">Address:</label><br>
+        <textarea name="Address" id="message" cols="30" rows="5"></textarea>
+      </div>
+      <br>
+      <input type="submit">
+    </form>
   </body>
 </html>
