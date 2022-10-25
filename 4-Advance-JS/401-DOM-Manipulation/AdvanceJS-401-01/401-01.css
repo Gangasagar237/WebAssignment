@@ -1,5 +1,8 @@
-*{
-    background-color: aquamarine;
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40vh;
 }
 input{
 width: 30%;
