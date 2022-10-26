@@ -1,1 +1,37 @@
 /* start your css here */
+.main{
+    background-color: #142b2b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+    width: 50%;
+    margin-left: 25%;
+}
+.content{
+    padding: 25px;
+    font-size: 25px;
+}
+.blue{
+    color: blue;
+}
+.para{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 50%;
+    margin-left: 25%;
+}
+.add{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+#ftoot{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
