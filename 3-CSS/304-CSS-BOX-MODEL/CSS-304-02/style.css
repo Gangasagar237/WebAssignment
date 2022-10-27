@@ -1,1 +1,41 @@
-/* start your css here */
+.main{
+    background-color: black;
+    opacity: 0.5px;
+    color: aliceblue;
+    /* margin-right: 1100px; */
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100vh;
+    width: 55%;
+}
+
+button{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    border: 2px solid whitesmoke;
+   margin: 10px;
+   margin-left: 35vh;
+   padding: 15px;
+   width: 50%;  
+}
+a{
+    color: aliceblue;
+}
+h2{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.input{
+    margin: 20px;
+    padding: 20px;
+    width: 70%;
+    margin-left: 80px;
+    
+}
+
+
