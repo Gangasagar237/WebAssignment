@@ -1,1 +1,52 @@
-/* start your styling here  */
+nav{
+    display: flex;
+    background-color: blue;
+    color: aliceblue;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    margin: 10px;
+    align-content: center;
+
+}
+li{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+button{
+    background-color: white;
+    border: 1px solid blue;
+    color: blue ;
+    width: 80px;
+    border-radius: 20px;
+
+}
+select{
+    background-color: blue;
+    color: aliceblue;
+  border: 1px solid blue;
+}
+input{
+    width: 400px;
+
+}
+#h{
+    color: gold;
+    text-transform: lowercase;
+}
+img{
+    height: 60px;
+    width: 60px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
