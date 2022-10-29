@@ -1,1 +1,62 @@
-/* start your styling here  */
+.cal-section-1 {
+    display: grid;
+    grid-template-columns: 90% 10%;
+    gap: 3px;
+
+}
+
+.cal-section-2 {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 30% 30% 29% 10%;
+    gap: 3px;
+}
+
+.cal-section-3 {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 30% 30% 29% 10%;
+    gap: 3px;
+}
+
+.cal-section-4 {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 30% 30% 29% 10%;
+    gap: 3px;
+}
+
+.main {
+    height: 250px;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.nope {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 30% 30% 29% 10%;
+    gap: 3px;
+}
+
+button {
+    padding: 10px;
+    background-color: rgb(145, 34, 210);
+    border-radius: 10px;
+    color: whitesmoke;
+}
+
+input {
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.blue {
+    background-color: violet;
+}

@@ -1,1 +1,14 @@
-/* start your styling here  */
+select{
+    background-color: rgb(24, 83, 245);
+    padding: 20px;
+    margin: 10px auto;
+    color: whitesmoke;
+    width: 10%;
+    font-weight: 700;
+}
+select:hover {
+    background-color: red;
+    width: 10%;
+    font-weight: 700;
+    cursor: pointer;
+  }

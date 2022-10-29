@@ -1,1 +1,66 @@
-/* start your styling here  */
+.main {
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.sections button:first-child {
+    background-color: green;
+    color: black;
+}
+
+.sectionthrid button:nth-child(2) {
+    background-color: aqua;
+    color: black;
+}
+
+.sectionFourth button:nth-child(3) {
+    background-color: orange;
+    color: black;
+}
+
+.sectionFifth button:nth-child(4) {
+    background-color: red;
+    color: black;
+}
+
+.sectionSixth button:nth-child(5) {
+    background-color: gray;
+    color: black;
+}
+
+button {
+    padding: 20px;
+    margin: 20px;
+    width: 130px;
+}
+
+.green {
+    border: 3px solid green;
+    color: green;
+    background-color: whitesmoke;
+}
+
+.blue {
+    border: 3px solid aqua;
+    color: aqua;
+    background-color: whitesmoke;
+}
+
+.orange {
+    border: 3px solid orange;
+    color: orange;
+    background-color: whitesmoke;
+}
+
+.red {
+    border: 3px solid red;
+    color: red;
+    background-color: whitesmoke;
+}
+
+.gray {
+    border: 3px solid gray;
+    color: gray;
+    background-color: whitesmoke;
+
+}

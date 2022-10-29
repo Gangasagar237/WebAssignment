@@ -1,1 +1,38 @@
-/* start your styling here  */
+main{
+    display: grid;
+    grid-template-rows: repeat(4,100px);
+    grid-template-columns:repeat(4,300px);
+    border: 2px solid black;
+    padding: 20px;
+}
+section{
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+    display: grid;
+    border: 1px solid black;
+    text-align: center;
+}
+.section-2,.section-1,.section-3,.section-6,.section-7,.section-8,.section-9,.section-10,.section-11,.section-12,.section-13,.section-14{
+    background-color: hotpink
+}
+.section-10,.section-14{
+    padding: 20px;
+    margin: 5px;
+}
+.section-2{
+    grid-column: 2;
+    grid-row: 1/span 2;
+    border: 1 solid black;
+    background-color: crimson;
+    margin-top: 30vh;
+}
+.section-1{
+    margin-top: 10vh;
+}
+.section-3{
+    grid-column: 1/span 2;
+}
+.section-4,.section-5{
+    background-color: aqua;
+}
