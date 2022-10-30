@@ -1,11 +1,10 @@
-function showing(){
-    let c =document.getElementById('image');
-    // c.style.display="none"
-    c.scr = 
-    "https://i0.wp.com/allthingstalent.org/wp-content/uploads/2022/07/geekster.jpg?fit=1000%2C535&ssl=1"
+function showimg(){
+    let c = document.getElementById("img");
+    c.style.display="none"
+    c.src =
+      "https://mybigplunge.com/wp-content/uploads/2021/12/Geekster_logo.jpg";
 
 }
 function hideimg(){
-    document.getElementById('image').style.display="block";
-
+    document.getElementById('img').style.display="block"
 }

@@ -1,0 +1,46 @@
+#coutries {
+    /* display: flex; */
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.tablediv {
+    display: flex;
+    background-color: orange;
+    height: 50px;
+    width: 91%;
+
+}
+
+.wrapper {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+table {
+    width: 500px;
+
+}
+
+.middletd {
+    /* border:2px solid; */
+    width: 300px;
+}
+
+#populationtable {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+td {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 200px;
+}

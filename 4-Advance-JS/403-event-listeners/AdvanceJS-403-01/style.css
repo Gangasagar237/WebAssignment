@@ -1,0 +1,23 @@
+body{
+    background-color: darkgray;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 40vh;
+}
+.keyboard{
+    border: none;
+    width: 20%;
+    height: 10vh;
+    box-shadow: 5px 5px 5px 5px gray;
+    font-size: 20px;
+    color: aqua;
+    font-weight: 800;
+}
+#keycode,#keyboard{
+    font-weight: 800;
+    font-size: 25px;
+    color: aqua;
+}
