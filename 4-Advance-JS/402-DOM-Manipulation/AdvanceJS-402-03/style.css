@@ -1,0 +1,22 @@
+*{
+    background-color: darkolivegreen;
+}
+h1,label{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+button,input{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10px;
+    width: 25%;
+    background-color:white;
+    
+}
+button{
+    padding: 10px;
+}
