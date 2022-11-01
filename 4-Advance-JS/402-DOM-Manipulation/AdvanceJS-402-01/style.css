@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(165, 214, 236);
+  }
+  .main{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  h1{
+    font-size: 100px;
+    color: rgb(236, 111, 111);
+  }
+  button{
+    padding: 15px;
+    margin: 0px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: gray;
+    color: whitesmoke;
+    width: 400px;
+  }
+  .last{
+    display: flex;
+    justify-content: space-around;
+  }
+  span{
+    margin: 15px 0px;
+    font-size: 20px;
+    color: whitesmoke;
+  }
+  p{
+    color: blue;
+  }
+  .input{
+    display: flex;
+    padding: 20px;
+    border: 2px solid rgb(19, 2, 2);
+    border-radius: 50px;
+    margin: 0px 215px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 500px;
+    justify-content: space-between;
+  }
+  
+  .btn{
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 450px;
+    display: flex;
+  }
+  .btn1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  
