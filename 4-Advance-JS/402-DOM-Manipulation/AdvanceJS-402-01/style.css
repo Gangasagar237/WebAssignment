@@ -54,11 +54,13 @@ body{
     margin: auto;
     width: 450px;
     display: flex;
+    cursor: pointer;
   }
   .btn1{
     text-align: center;
     justify-content: center;
     align-items: center;
     margin: auto;
+    cursor: pointer;
   }
   
