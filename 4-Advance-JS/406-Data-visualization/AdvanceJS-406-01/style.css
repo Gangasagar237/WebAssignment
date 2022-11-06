@@ -1,25 +1,10 @@
-div.container{
-    width: 100%;
-  height: 400px;
-  /* margin: -98px 100px; */
-  padding: 249px 82px;
-  /* position: absolute; */
- 
-  }
-  input{
-    width: 500px;
-  height: 40px;
-  border-radius: 20px;
-  text-align: center;
-  }
-  .container{
-    background-image: url("https://wallpaperaccess.com/full/3615993.jpg");
+.container{
+    background-image: url("https://scied.ucar.edu/sites/default/files/styles/half_width/public/2021-10/Earth_system_sum_parts.jpg?itok=NRs3YKiK");
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
     background-size: cover;
-   
-  }
+}
 .btn .btn{
     padding: 7px 17px;
   background-color: #7951cf;
@@ -35,6 +20,20 @@ div.container{
   margin: -100px auto;
   background-color: black;
   opacity: 0.8;
+  }
+div.container{
+    width: 100%;
+  height: 400px;
+  /* margin: -98px 100px; */
+  padding: 249px 82px;
+  /* position: absolute; */
+ 
+  }
+  input{
+    width: 500px;
+  height: 40px;
+  border-radius: 20px;
+  text-align: center;
   }
   h1.h1{
     font-size: 40px;
